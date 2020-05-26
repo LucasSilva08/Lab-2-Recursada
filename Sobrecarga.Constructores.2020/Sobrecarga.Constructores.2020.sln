@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerados", "Enumerados\Enumerados.csproj", "{B86576D2-AA3F-413F-929F-F7E5CA39CCF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga.Constructores.2020", "Sobrecarga.Constructores.2020\Sobrecarga.Constructores.2020.csproj", "{DB2B67D1-A016-4B9D-8E91-B788FFB8F2B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86576D2-AA3F-413F-929F-F7E5CA39CCF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86576D2-AA3F-413F-929F-F7E5CA39CCF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86576D2-AA3F-413F-929F-F7E5CA39CCF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86576D2-AA3F-413F-929F-F7E5CA39CCF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB2B67D1-A016-4B9D-8E91-B788FFB8F2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2B67D1-A016-4B9D-8E91-B788FFB8F2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2B67D1-A016-4B9D-8E91-B788FFB8F2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2B67D1-A016-4B9D-8E91-B788FFB8F2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2DA0B51-DED8-4A6E-B55B-7D6E1E4E7079}
+	EndGlobalSection
+EndGlobal

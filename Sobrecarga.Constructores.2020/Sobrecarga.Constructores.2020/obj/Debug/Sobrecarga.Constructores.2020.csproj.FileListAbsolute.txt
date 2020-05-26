@@ -1,0 +1,14 @@
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Objetos.Constructores.2020\bin\Debug\Objetos.Constructores.2020.exe.config
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Objetos.Constructores.2020\bin\Debug\Objetos.Constructores.2020.exe
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Objetos.Constructores.2020\bin\Debug\Objetos.Constructores.2020.pdb
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Objetos.Constructores.2020\obj\Debug\Sobrecarga.Constructores.2020.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Objetos.Constructores.2020\obj\Debug\Sobrecarga.Constructores.2020.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Objetos.Constructores.2020\obj\Debug\Objetos.Constructores.2020.exe
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Objetos.Constructores.2020\obj\Debug\Objetos.Constructores.2020.pdb
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Sobrecarga.Constructores.2020\bin\Debug\Objetos.Constructores.2020.exe.config
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Sobrecarga.Constructores.2020\bin\Debug\Objetos.Constructores.2020.exe
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Sobrecarga.Constructores.2020\bin\Debug\Objetos.Constructores.2020.pdb
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Sobrecarga.Constructores.2020\obj\Debug\Sobrecarga.Constructores.2020.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Sobrecarga.Constructores.2020\obj\Debug\Sobrecarga.Constructores.2020.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Sobrecarga.Constructores.2020\obj\Debug\Objetos.Constructores.2020.exe
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Sobrecarga.Constructores.2020\obj\Debug\Objetos.Constructores.2020.pdb

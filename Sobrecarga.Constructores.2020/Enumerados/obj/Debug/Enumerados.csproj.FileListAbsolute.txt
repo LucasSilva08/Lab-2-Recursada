@@ -1,0 +1,14 @@
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Enumerados\bin\Debug\Enumerados.exe.config
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Enumerados\bin\Debug\Enumerados.exe
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Enumerados\bin\Debug\Enumerados.pdb
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Enumerados\obj\Debug\Enumerados.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Enumerados\obj\Debug\Enumerados.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Enumerados\obj\Debug\Enumerados.exe
+C:\Users\Maxi\source\repos\Objetos.Constructores.2020\Enumerados\obj\Debug\Enumerados.pdb
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Enumerados\bin\Debug\Enumerados.exe.config
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Enumerados\bin\Debug\Enumerados.exe
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Enumerados\bin\Debug\Enumerados.pdb
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Enumerados\obj\Debug\Enumerados.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Enumerados\obj\Debug\Enumerados.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Enumerados\obj\Debug\Enumerados.exe
+C:\Users\Maxi\source\repos\Sobrecarga.Constructores.2020\Enumerados\obj\Debug\Enumerados.pdb
